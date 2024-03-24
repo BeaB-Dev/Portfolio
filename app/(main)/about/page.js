@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { bebas_neue } from "../../fonts";
+import { fetchProjects } from "@/app/data";
 
 export default function About() {
   return (
