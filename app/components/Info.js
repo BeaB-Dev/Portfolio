@@ -48,6 +48,8 @@ export default function Info() {
             <Link
               className="has-text-white"
               href={"https://www.linkedin.com/in/beatrice-bonhomme/"}
+              target="_blank"
+              rel="noopener"
             >
               <FontAwesomeIcon
                 icon={faLinkedin}
@@ -60,6 +62,8 @@ export default function Info() {
             <Link
               className="has-text-white"
               href={"https://github.com/BeaB-Dev"}
+              target="_blank"
+              rel="noopener"
             >
               <FontAwesomeIcon
                 icon={faGithub}
