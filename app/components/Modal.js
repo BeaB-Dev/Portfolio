@@ -1,11 +1,9 @@
-"use client"
+"use client";
 
 import { useRouter } from "next/navigation";
-import { usePathname } from "next/navigation";
 
 export default function Modal({ children }) {
   const router = useRouter();
-  const pathname = usePathname();
 
   return (
     <div className={"modal is-active"} id="modal">
