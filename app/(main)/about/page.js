@@ -41,7 +41,7 @@ export default function About() {
           >
             projects
           </Link>{" "}
-          focus on automation and building practical solutions to situations
+          focus on building practical solutions to situations
           I&#39;ve encountered as I work toward this goal.
         </p>
       </div>
